@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## Abstract
 
-####   Coding Language
+####   Programming Language
 
   ​  ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)![c++](https://img.shields.io/badge/cpp-00599C?style=for-the-badge&logo=cplusplus&logoColor=ffffff)![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=ffffff)![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=ffffff)![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=ffffff)
 
